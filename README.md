@@ -1,6 +1,5 @@
 Food
 ====
-Team Members
 Darrien Ford
 Shaun Douglas
 
